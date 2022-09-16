@@ -1,1 +1,3 @@
-# Devathon22-Team115-PS02
+# ClubSpace
+### A shared space for all the clubs and association in NIT Warangal
+
