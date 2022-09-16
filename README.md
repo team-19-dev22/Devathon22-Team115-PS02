@@ -1,3 +1,3 @@
 # ClubSpace
-### A shared space for all the clubs and association in NIT Warangal
+### A shared space for all the clubs and associations in NIT Warangal
 
